@@ -1,8 +1,8 @@
 # Bird_Admin
-Most popular scroll application vulnarebility
-acces to admin menu + visualy changing balance
-possible lfi&rci (to lazy to check) 
-changing config
+Most popular scroll application vulnarebility.
+acces to admin menu + visualy changing balance.
+possible lfi&rci (to lazy to check) .
+changing config.
 
 ## Requirements
 
